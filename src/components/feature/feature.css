@@ -13,9 +13,9 @@
 }
 .gpt3__features-container__feature-title h1 {
   font-family: var(--font-family);
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 800;
-  line-height: 75px;
+  line-height: 28px;
   letter-spacing: -0.04em;
   text-align: left;
   color: #ffffff;
